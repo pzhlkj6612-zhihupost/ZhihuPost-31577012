@@ -10,7 +10,7 @@
 
 [https://www.zhihu.com/question/59549111/answer/166911676](https://www.zhihu.com/question/59549111/answer/166911676)
 
-本文章也存在于GitHub仓库：
+本文章也存在于 GitHub 仓库：
 
 [https://github.com/pzhlkj6612/ZhihuPost-31577012](https://github.com/pzhlkj6612/ZhihuPost-31577012)
 
@@ -19,7 +19,7 @@
 注意：
 
 * 本文可能不会持续更新；
-* 我仅在`Windows 10`下的`Adobe CC2018`对本文内容做了简要测试；
+* 我仅在 Windows 10 下的 Adobe CC 2018 对本文内容做了简要测试；
 * 所有方法均由我从各个地方习得并测试，仅供参考，并不一定是最佳选择；
 * 本文并不适合在小屏幕终端上阅读；
 * 以下内容有难度，请你务必耐心；
