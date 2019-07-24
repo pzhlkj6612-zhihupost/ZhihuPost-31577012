@@ -12,7 +12,7 @@
 
 本文章也存在于 GitHub 仓库：
 
-[https://github.com/pzhlkj6612/ZhihuPost-31577012](https://github.com/pzhlkj6612/ZhihuPost-31577012)
+[https://github.com/pzhlkj6612-zhihupost/ZhihuPost-31577012](https://github.com/pzhlkj6612-zhihupost/ZhihuPost-31577012)
 
 <br/>
 
